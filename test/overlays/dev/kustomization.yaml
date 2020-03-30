@@ -1,6 +1,5 @@
 namePrefix: dev-
 commonLabels:
   variant: dev
-namespace: dev
 bases:
   - ../../base
